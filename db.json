@@ -1,0 +1,42 @@
+{
+  "bookings": [
+    {
+      "id": "1",
+      "tripType": "oneway",
+      "pickupDate": "2026-06-10",
+      "pickupTime": "10:00",
+      "pickupLocationType": "location",
+      "pickupLocation": "Airport Terminal 1",
+      "dropoffLocationType": "location",
+      "dropoffLocation": "Downtown Hotel",
+      "contactPhone": "555-0100",
+      "contactFirstName": "John",
+      "contactLastName": "Doe",
+      "contactEmail": "john.doe@example.com",
+      "passengers": 2
+    },
+    {
+      "tripType": "oneway",
+      "pickupDate": "2026-06-17",
+      "pickupTime": "15:33",
+      "pickupLocationType": "location",
+      "pickupLocation": "",
+      "pickupLat": null,
+      "pickupLng": null,
+      "pickupLocationAirport": "",
+      "hours": "",
+      "dropoffLocationType": "location",
+      "dropoffLocation": "",
+      "dropoffLat": null,
+      "dropoffLng": null,
+      "dropoffLocationAirport": "",
+      "contactPhone": "",
+      "contactFirstName": "",
+      "contactLastName": "",
+      "contactEmail": "",
+      "passengers": "",
+      "id": "o-W-sJ824RU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
